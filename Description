@@ -1,1 +1,100 @@
-These files contain the Gephi data cross-border bank liabilities from the BIS for every year from 2005 to 2015. Using these files, you can manipulate the networks for yourself. 
+<!DOCTYPE html>
+<html class="wf-roboto-n4-active wf-roboto-n7-active wf-roboto-i7-active wf-roboto-i4-active wf-active" lang="en">
+<head>
+<script id="prebid-script" type="text/javascript" async="" src="/cdn/js/prebid-4-4-18.js">
+<script id="ast-script" type="text/javascript" async="" src="//acdn.adnxs.com/ast/ast.js">
+<script id="blockthrough-script" type="text/javascript" async="" src="//cdn-themaven-com.videoplayerhub.com/gallery.js">
+<meta charset="utf-8">
+<title>Economic News, Analysis, and Discussion - EconoMonitor</title>
+<meta property="fb:app_id" content="1584101545227709">
+<meta property="fb:pages" content="1758170921167225">
+<meta property="og:locale" content="en_US">
+<meta name="build:key" content="SS-WS1-JOB1-239">
+<meta name="build:date" content="2018-04-06 01:51:50 +0000">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Economic News, Analysis, and Discussion - EconoMonitor">
+<meta property="og:title" content="Economic News, Analysis, and Discussion - EconoMonitor">
+<meta property="og:site_name" content="EconoMonitor">
+<meta property="og:url" content="https://www.themaven.net/economonitor/">
+<meta name="twitter:description" content="Hosted by Nouriel Roubini, EconoMonitor is an important destination for economic news, analysis, and opinion with an impressive list of contributors adding to the conversation daily.">
+<meta name="description" content="Hosted by Nouriel Roubini, EconoMonitor is an important destination for economic news, analysis, and opinion with an impressive list of contributors adding to the conversation daily.">
+<meta property="og:description" content="Hosted by Nouriel Roubini, EconoMonitor is an important destination for economic news, analysis, and opinion with an impressive list of contributors adding to the conversation daily.">
+<meta name="twitter:image" content="https://s3-us-west-2.amazonaws.com/maven-user-photos/economonitor/content/bIaNUbHRwkOuEpwVf_x9jQ/Zs9q6n4WNUG2h24uzxes8g">
+<meta property="og:image" content="https://s3-us-west-2.amazonaws.com/maven-user-photos/economonitor/content/bIaNUbHRwkOuEpwVf_x9jQ/Zs9q6n4WNUG2h24uzxes8g">
+<link rel="shortcut icon" href="https://www.themaven.net/cdn/maven-icon.png">
+<link rel="alternate" type="application/rss+xml" title="EconoMonitor RSS Feed" href="https://www.themaven.net/api/rss/channels/economonitor">
+<link rel="canonical" href="https://www.themaven.net/economonitor/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js" defer="">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" async="">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js" defer="">
+<script type="text/javascript">
+<script defer="" type="text/javascript" src="//s.ntv.io/serve/load.js">
+<style>
+<style>
+<script src="https://www.themaven.net/dist/manifest.964d90270668b2de983d.js">
+<script src="https://www.themaven.net/dist/vendor.dc7dd5dc6fdc0c40dfce.js">
+<script src="https://www.themaven.net/dist/app.4f80daece402e05ae8a9.js">
+<script src="https://www.themaven.net/dist/channel.cf632fe5c1c9c2fd514b.js">
+<script src="https://www.themaven.net/dist/main.b9231bbe9b388e62c72e.js">
+<style>
+<style type="text/css" data-jss="" data-meta="MuiCssBaseline">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="" data-meta="MuiTypography">
+<style type="text/css" data-jss="" data-meta="MuiSvgIcon">
+<style type="text/css" data-jss="" data-meta="MuiTouchRipple">
+<style type="text/css" data-jss="" data-meta="MuiButtonBase">
+<style type="text/css" data-jss="" data-meta="MuiIconButton">
+<style type="text/css" data-jss="" data-meta="MuiModal">
+<style type="text/css" data-jss="" data-meta="MuiPaper">
+<style type="text/css" data-jss="" data-meta="MuiDrawer">
+<style type="text/css" data-jss="" data-meta="MuiTabIndicator">
+<style type="text/css" data-jss="" data-meta="MuiTabScrollButton">
+<style type="text/css" data-jss="" data-meta="MuiTabs">
+<style type="text/css" data-jss="" data-meta="MuiTab">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="" data-meta="MuiList">
+<style type="text/css" data-jss="" data-meta="MuiListItem">
+<style type="text/css" data-jss="" data-meta="MuiListItemText">
+<style type="text/css" data-jss="" data-meta="MuiListItemIcon">
+<style type="text/css" data-jss="" data-meta="MuiDivider">
+<style type="text/css" data-jss="" data-meta="MuiCollapse">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="" data-meta="MuiMenuItem">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="" data-meta="MuiDialog">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="">
+<style type="text/css" data-jss="" data-meta="MuiAppBar">
+<style type="text/css" data-jss="" data-meta="MuiToolbar">
+<style type="text/css" data-jss="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" media="all">
+<script async="" src="https://platform.twitter.com/widgets.js">
+<style type="text/css" data-jss="">
+<style type="text/css">
+</head>
+<body>
+</html>
