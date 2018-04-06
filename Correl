@@ -1,0 +1,16 @@
+	Means	Std.Dev.	Polyarchy*100	REER	Real interest rate (%)	Market cap. (% of GDP)	GDP per capita	S&P Global Equity Indices (annual % change)	Current account balance (% of GDP)	Commercial service exports $b	Air transport, millions of passengers carried	Central government debt (% of GDP)	Gross capital formation (% of GDP)	Savings (% GDP)	FDI, net inflows (% of GDP)	Broad money growth (annual %)	Rule of Law
+Polyarchy*100	89.46	2.47	1.00	0.40	-0.37	0.52	0.58	0.01	0.41	0.33	0.18	-0.15	-0.09	0.19	-0.05	-0.19	0.45
+REER	98.52	10.75	0.40	1.00	-0.46	0.20	0.45	-0.09	0.04	0.40	0.24	0.01	-0.14	-0.11	0.23	-0.10	0.46
+Real interest rate (%)	8.34	11.72	-0.37	-0.46	1.00	-0.55	-0.82	0.09	-0.16	-0.37	-0.23	0.26	-0.34	-0.27	-0.12	0.47	-0.96
+Market cap. (% of GDP)	122.89	61.73	0.52	0.20	-0.55	1.00	0.69	0.30	0.76	0.08	-0.05	-0.45	0.21	0.62	0.23	-0.43	0.61
+GDP per capita	39.09	14.93	0.58	0.45	-0.82	0.69	1.00	-0.06	0.41	0.46	0.34	-0.19	0.24	0.40	0.01	-0.54	0.86
+S&P Global Equity Indices (annual % change)	6.28	32.49	0.01	-0.09	0.09	0.30	-0.06	1.00	0.11	-0.03	-0.02	0.01	-0.06	0.04	-0.07	-0.07	-0.07
+Current account balance (% of GDP)	-0.25	6.12	0.41	0.04	-0.16	0.76	0.41	0.11	1.00	-0.20	-0.34	-0.43	0.05	0.70	0.26	-0.26	0.24
+Commercial service exports $b	182.64	216.90	0.33	0.40	-0.37	0.08	0.46	-0.03	-0.20	1.00	0.93	0.71	-0.51	-0.56	-0.19	-0.24	0.28
+Air transport, millions of passengers carried	200.76	283.51	0.18	0.24	-0.23	-0.05	0.34	-0.02	-0.34	0.93	1.00	0.74	-0.42	-0.61	-0.33	-0.21	0.14
+Central government debt (% of GDP)	48.44	23.14	-0.15	0.01	0.26	-0.45	-0.19	0.01	-0.43	0.71	0.74	1.00	-0.69	-0.80	-0.25	0.02	-0.38
+Gross capital formation (% of GDP)	22.91	3.53	-0.09	-0.14	-0.34	0.21	0.24	-0.06	0.05	-0.51	-0.42	-0.69	1.00	0.69	0.01	-0.12	0.41
+Savings (% GDP)	23.79	7.07	0.19	-0.11	-0.27	0.62	0.40	0.04	0.70	-0.56	-0.61	-0.80	0.69	1.00	0.17	-0.23	0.38
+FDI, net inflows (% of GDP)	3.92	3.42	-0.05	0.23	-0.12	0.23	0.01	-0.07	0.26	-0.19	-0.33	-0.25	0.01	0.17	1.00	-0.05	0.12
+Broad money growth (annual %)	9.19	7.45	-0.19	-0.10	0.47	-0.43	-0.54	-0.07	-0.26	-0.24	-0.21	0.02	-0.12	-0.23	-0.05	1.00	-0.47
+Rule of Law	1.35	0.77	0.45	0.46	-0.96	0.61	0.86	-0.07	0.24	0.28	0.14	-0.38	0.41	0.38	0.12	-0.47	1.00
