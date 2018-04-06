@@ -1,0 +1,21 @@
+Anova: Single Factor						
+
+SUMMARY						
+Groups	Count	Sum	Average	Variance		
+Full	4	0.391304348	0.097826087	0.001181474		
+Flawed	4	0.413043478	0.10326087	0.003820101		
+Hybrid	4	0.043478261	0.010869565	7.8765E-05		
+Authoritarian	4	0.152173913	0.038043478	0.000354442		
+
+
+ANOVA						
+Source of Variation	SS	df	MS	F	P-value	F crit
+Between Groups	0.024692817	3	0.008230939	6.057971014	0.009413361	3.490294821
+Within Groups	0.016304348	12	0.001358696			
+						
+Total	0.040997164	15				
+
+
+
+
+	Between group sums of squared errors corresponded to around 0.025 (with 3 degrees of freedom) and 0.016 within groups with 12 degrees of freedom). On an F-distribution (showing the likelihood these groups have the same type of financial centre), a value of 6.05 corresponds to a 0.0094 probability they are all the same). 
