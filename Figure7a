@@ -1,0 +1,66 @@
+city	country	start level ifc	change ifc
+Buenos Aires	Argentina	507	2.04
+Melbourne	Australia	588	0.27
+Sydney	Australia	636	0.90
+Vienna	Austria 	515	1.51
+Brussels	Belgium	546	1.40
+Rio de Janeiro 	Brazil	532	1.99
+Sao Paulo 	Brazil	434	1.12
+Montreal 	Canada	538	-0.31
+Toronto 	Canada	613	0.93
+Vancouver	Canada	525	1.65
+Beijing	China	482	1.09
+Shanghai	China	527	0.67
+Shenzhen 	China	695	-0.07
+Copenhagen 	Denmark	488	0.96
+Helsinki 	Finland	518	0.95
+Paris	France	622	0.65
+Frankfurt 	Germany	649	0.69
+Munich 	Germany	535	3.05
+Athens 	Greece	379	2.38
+Budapest	Hungary	374	4.17
+Reykjavik 	Iceland	415	4.12
+Mumbai 	India	470	2.29
+Jakarta 	Indonesia	511	1.96
+Dublin	Ireland	605	0.79
+Milan 	Italy	519	0.95
+Rome 	Italy	479	1.32
+Kuala Lumpur 	Malaysia	557	1.71
+Mauritius 	Mauritius 	536	3.15
+Mexico City 	Mexico	541	1.80
+Amsterdam 	Netherlands	599	1.18
+Wellington	New Zealand	447	1.18
+Oslo 	Norway	500	1.56
+Manila 	Philippines	494	2.35
+Warsaw	Poland	438	3.33
+Lisbon	Portugal	422	2.44
+Qatar	Qatar	440	2.58
+Moscow 	Russia	462	2.91
+St. Petersburg	Russia	453	2.85
+Riyadh 	Saudi Arabia	457	3.13
+Singapore	Singapore	673	0.45
+Johannesburg 	South Africa	463	1.17
+Seoul 	South Korea	464	2.03
+Madrid 	Spain	516	0.83
+Stockholm	Sweden	554	1.12
+Geneva	Switzerland	645	0.43
+Zurich	Switzerland	666	0.58
+Taipei 	Taiwan	609	1.61
+Bangkok 	Thailand	532	2.38
+Istanbul	Turkey	442	4.32
+Bahamas 	UK	563	0.30
+British Virgin Islands 	UK	584	2.34
+Cayman Islands	UK	564	1.07
+Edinburgh 	UK	587	0.08
+Gibraltar 	UK	589	1.52
+Glasgow 	UK	586	1.25
+Guernsey	UK	622	-0.14
+Hamilton (Bermuda)	UK	562	1.02
+Isle of Man	UK	583	0.03
+Jersey	UK	622	-0.02
+London 	UK	806	0.06
+Boston 	USA	621	0.43
+Chicago 	USA	639	0.83
+New York	USA	787	-2.63
+San Francisco 	USA	608	1.28
+Washington D.C. 	USA	589	1.25
